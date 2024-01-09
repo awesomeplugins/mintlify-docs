@@ -25,12 +25,6 @@
     "name": "Dashboard",
     "url": "https://awesomeplugins.shop/dashboard"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Documentation",
@@ -54,8 +48,8 @@
       "pages": ["introduction", "quickstart", "development"]
     },
     {
-      "group": "Essentials",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
+      "group": "How to",
+      "pages": ["how-to/get-license", "how-to/install-plugin"]
     },
     {
       "group": "API Documentation",
