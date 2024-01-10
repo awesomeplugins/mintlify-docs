@@ -27,11 +27,6 @@
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
       "name": "Community",
       "icon": "slack",
       "url": "https://mintlify.com/community"
@@ -39,7 +34,7 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://awesomeplugins.shop/blog"
     }
   ],
   "navigation": [
@@ -49,19 +44,7 @@
     },
     {
       "group": "How to",
-      "pages": ["how-to/get-license", "how-to/install-plugin"]
-    },
-    {
-      "group": "API Documentation",
-      "pages": ["api-reference/introduction"]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
+      "pages": ["how-to/get-license", "how-to/install-plugin", "how-to/activate-plugin", "how-to/download-plugin-files", "how-to/get-openai-keys", "how-to/remove-website-from-license"]
     }
   ],
   "footerSocials": {
